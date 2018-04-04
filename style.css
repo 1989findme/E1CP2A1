@@ -1,0 +1,96 @@
+body
+{
+	margin: 0px;
+}
+
+
+@font-face 
+{
+	font-family:'El Rio Lobo';
+	src: url('assets/fonts/The_Emperors_font.eot');
+	src: url('assets/fonts/The_Emperors_font.eot?#iefix') format('embedded-opentype'),
+	url('assets/fonts/The_Emperors_font.woff') format('woff'),
+	url('assets/fonts/The_Emperors_font.ttf')  format('truetype'),
+	url('assets/fonts/The_Emperors_font.svg#04a895ec2b9535ff55881607625d1b84') format('svg');
+
+	font-style: normal;
+	font-weight: 400;
+}
+.bloque_1
+{
+	padding-top:0px;
+	background-color:#A52A2A;
+	height: 150px;
+	width: 100%;
+	text-align: center;
+	color: white;
+}
+
+.h_1
+{
+	font-family: El Rio Lobo;
+	margin: 0px 0px 0px 0px;
+	padding: 40px 0px 20px 0px;
+	color: #ffcc33;
+}
+
+.p_1
+{
+	margin: 0px; 
+}
+
+.bloque_2
+{
+	background-color:#1E90FF;
+	padding: 20px;
+	text-align: center;
+}
+
+.bloque_3
+{
+	background-image: url(cuzco2.jpg);
+	background-size: 100% auto;
+	height: 550px
+}
+
+.h_2
+{
+	margin: 0px;
+	font-family: 'El Rio Lobo' ;
+	color: #ffcc33;
+}
+
+.parrafo
+{
+	text-align: right;
+	color: white
+}
+
+.p_2
+{
+	margin: 0px;
+}
+
+.bloque_4
+{
+	text-align: center;
+	font-size: 50px;
+	
+}
+
+.p_3
+{
+	font-family: 'El Rio Lobo' ;
+	margin-bottom: 0px;;
+	padding-bottom: 20px;
+}
+
+.ul_1
+{	
+	margin-top: 0px;
+	padding: 0px;
+}
+.ol_1
+{	font-family: 'El Rio Lobo' ;
+	padding: 10px;
+}
